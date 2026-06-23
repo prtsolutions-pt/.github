@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/WvVs9kTh/BANNER-CORTADO.png" alt="PRT Solutions" width="100%" />
+  <img src="https://i.ibb.co/3mf4Q6rF/COMPRESS-BANNER-CORTADO.png" alt="PRT Solutions" width="100%" />
 </div>
 
 <br/>
@@ -71,14 +71,6 @@ Implementação de stacks tecnológicas, otimização de infraestrutura, arquite
 
 &nbsp;
 
-## Onde atuamos
-
-![Coimbra](https://img.shields.io/badge/Coimbra-16A34A?style=flat-square)
-![Antanhol](https://img.shields.io/badge/Antanhol-4F46E5?style=flat-square)
-![Deslocação](https://img.shields.io/badge/Deslocação-D97706?style=flat-square)
-
-&nbsp;
-
 ## Stack & Tecnologias
 
 ![Linux](https://img.shields.io/badge/Linux-1C1C1C?style=flat-square&logo=linux&logoColor=white)
@@ -111,6 +103,8 @@ Trabalhamos com **Synology NAS** em soluções de storage, backup e virtualizaç
 
 <div align="center">
 
-![PRT Solutions — Infraestrutura sólida, automação inteligente.](https://img.shields.io/badge/PRT%20Solutions%20—%20Infraestrutura%20s%C3%B3lida%2C%20automa%C3%A7%C3%A3o%20inteligente.-4F46E5?style=for-the-badge)
+![Tagline](https://img.shields.io/badge/PRT%20SOLUTIONS-4F46E5?style=for-the-badge)
+
+**Infraestrutura sólida, automação inteligente.**
 
 </div>
