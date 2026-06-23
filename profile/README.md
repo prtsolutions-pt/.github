@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://i.ibb.co/3mf4Q6rF/COMPRESS-BANNER-CORTADO.png" alt="PRT Solutions" width="100%" />
 </div>
-
 <br/>
 
 <div align="center">
@@ -59,11 +58,18 @@ Automação de infraestrutura, pipelines CI/CD, deploy automatizado de aplicaç�
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 **5 · Soluções Tecnológicas**
 
 Implementação de stacks tecnológicas, otimização de infraestrutura, arquitetura de sistemas e escalabilidade/performance.
+
+</td>
+<td width="50%" valign="top">
+
+**6 · Microsoft 365 & Otimização de Custos**
+
+Migrações de email, gestão de domínios Microsoft, aconselhamento de contas 365, configuração de SharePoint, automação com Power Automate, e apoio na organização e redução de custos com soluções alternativas (open-source, gratuitas ou pagas).
 
 </td>
 </tr>
@@ -76,6 +82,13 @@ Implementação de stacks tecnológicas, otimização de infraestrutura, arquite
 ![Linux](https://img.shields.io/badge/Linux-1C1C1C?style=flat-square&logo=linux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-1C1C1C?style=flat-square&logo=windows&logoColor=white)
 ![Synology](https://img.shields.io/badge/Synology-1C1C1C?style=flat-square&logo=synology&logoColor=white)
+![UGREEN](https://img.shields.io/badge/UGREEN-1C1C1C?style=flat-square)
+![QNAP](https://img.shields.io/badge/QNAP-1C1C1C?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-1C1C1C?style=flat-square&logo=cisco&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-1C1C1C?style=flat-square&logo=ubiquiti&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-1C1C1C?style=flat-square&logo=microsoft365&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-1C1C1C?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-1C1C1C?style=flat-square&logo=powerautomate&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1C1C1C?style=flat-square&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-1C1C1C?style=flat-square&logo=ansible&logoColor=white)
@@ -89,7 +102,8 @@ Implementação de stacks tecnológicas, otimização de infraestrutura, arquite
 ![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-1C1C1C?style=flat-square&logo=gnubash&logoColor=white)
 
-Trabalhamos com **Synology NAS** em soluções de storage, backup e virtualização, integradas com a infraestrutura dos nossos clientes.
+**Storage & NAS:** Synology · UGREEN · QNAP — soluções de storage, backup e virtualização.
+**Redes:** Cisco · Ubiquiti — routers, switches e access points.
 
 &nbsp;
 
